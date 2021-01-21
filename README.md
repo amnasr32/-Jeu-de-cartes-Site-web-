@@ -1,6 +1,6 @@
-# Projet-L1
+# Jeu de cartes 
 
-What is Jeu de Cartes?
+##What is Jeu de Cartes?
 ******************
 
 This project is a card game website realised in pairs as part of University of Paris (ex: Paris Diderot) project for students of the first year of Computer
@@ -10,10 +10,10 @@ purposes at the same time and based on a simple style that effectively highlight
 
 To Launch this website you can click on the followwing  php file : "PageDAcceuil.php"
 
-===> To get to know more about and test this project please read this following  file "document_descriptif.pdf".
+####To get to know more about and test this project please read this following  file "document_descriptif.pdf".
 
 
 
-Author:
+##Author:
 *******
 <nasramira8@gmail.com>
