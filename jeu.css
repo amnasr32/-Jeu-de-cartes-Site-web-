@@ -1,0 +1,49 @@
+body{
+	background-color:#20B2AA ;
+  color: gold;
+  text-align:center; 
+  font-family: italic;
+	font-size: 15px;
+  
+  
+
+}
+h1 h2{
+	color: gold;
+text-align:center;
+font-style: italic;
+font-size: 30px;
+}
+p{
+color:#696969;
+font-family: italic;
+}
+a{
+	padding: 50px;
+	margin: 80px;
+	font-weight:500;
+	text-decoration:none;
+	font-size: 50px;
+	text-align: center;
+	color:#696969;
+}
+form input {
+	background: white ;
+	overflow: hidden;
+	font-size: 20px;
+	padding: 8px 0;
+	margin: 8px 0 ;
+	font-family: sans-serif;
+	border-bottom: 20 px solid;
+	color: #696969;
+	
+}
+
+br{
+	height: 30px;
+}
+h3{
+	font-size: 5px;
+	text-align:right;
+	font-weight:5;
+}

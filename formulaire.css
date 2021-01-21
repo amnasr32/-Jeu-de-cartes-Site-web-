@@ -1,0 +1,45 @@
+
+body{
+	margin: 50;
+	padding: 50;
+	font-style: italic;
+	font-size:20px;
+	
+	
+	font-family: sans-serif;
+	
+	background: url(formulaire.jpg) no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+form{
+	width: 300px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	color: white;
+}
+form p{
+	
+	text-decoration: bold;
+	float: middle;
+	font-size: 30px;
+	font-weight:500;
+	border-bottom: 2px solid;
+	margin-bottom: 20px;
+	padding:20 px 0 ; 
+}
+form input {
+	background: none;
+	width: 100%;
+	overflow: hidden;
+	font-size: 20px;
+	padding: 8px 0;
+	margin: 8px 0 ;
+	font-family: sans-serif;
+	border-bottom: 20 px solid;
+	color: white;
+	
+}
+
